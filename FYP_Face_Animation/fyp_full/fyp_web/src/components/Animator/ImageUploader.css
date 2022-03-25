@@ -1,0 +1,22 @@
+.image-uploader {
+    position: relative;
+    display: flex;
+}
+
+.imageBox {
+    vertical-align: middle;
+    font-size: large;
+}
+
+.imageBoxHover {
+    padding: 150px;
+    vertical-align: middle;
+    background-color: #508ae6;
+    font-size: large;
+}
+
+.image-uploader {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+}

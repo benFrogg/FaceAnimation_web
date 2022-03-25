@@ -1,0 +1,15 @@
+.AnimatorFrame {
+    padding: 4rem;
+    background: #fff;
+}
+
+h1{
+    padding-bottom: 100px;
+}
+
+.Contents {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    justify-content: center;
+}
